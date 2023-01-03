@@ -1,7 +1,7 @@
-[![MasterHead](https://www.canva.com/design/DAFWlVVWG9g/omw1_hMf7zdFM-hS-lZ44Q/view?utm_content=DAFWlVVWG9g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+
 <h1 align="center">Hi 👋, I'm Sunny Dalvi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzzOlgdEmc2_jBaT0fNIiQ4Zw2zQLWp7GwULIHk5dH0bItbieSFnM0e89rLnbsNkqxZzk&usqp=CAU”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnydalvi94&label=Profile%20views&color=0e75b6&style=flat" alt="sunnydalvi94" /> </p>
 
