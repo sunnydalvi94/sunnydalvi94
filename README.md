@@ -1,4 +1,4 @@
-![ScreenShot](https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![ScreenShot](https://images.pexels.com/photos/2312369/pexels-photo-2312369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <h1 align="center">Hi 👋, I'm Sunny Dalvi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
