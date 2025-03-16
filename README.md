@@ -22,6 +22,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sunny-dalvi2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sunny-dalvi2022/" height="30" width="40" /> LinkedIn </a>
 </p>
 
- <h1 style={height:'300px',border:'1px solid gray'}
- <a href="[https://reactnative.dev/](https://github.com/sunnydalvi94/react-learning)" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>ALL REACT MINI PROJECTS</a>
- </h1>
+
+ <a style={height:'300px',border:'1px solid gray'} href="https://github.com/sunnydalvi94/react-learning" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>ALL REACT MINI PROJECTS</a>
+
