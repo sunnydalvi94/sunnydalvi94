@@ -19,5 +19,10 @@
 </p>
 
 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> [ALL REACT MINI PROJECTS](https://github.com/sunnydalvi94/react-learning/tree/main/PasswordStrength )
+<div align="center">
+  <a href="https://github.com/sunnydalvi94/react-learning/tree/main/PasswordStrength" target="_blank">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Logo" width="60" height="60"/>
+    <h1 style="color: #61DAFB; font-size: 28px;">ALL REACT MINI PROJECTS</h1>
+  </a>
+</div>
 
