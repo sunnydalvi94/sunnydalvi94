@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sunny Dalvi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnydalvi94&label=Profile%20views&color=0e75b6&style=flat" alt="sunnydalvi94" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnydalvi94" alt="sunnydalvi94" /></a> </p>
-
 - 🌱 I’m currently learning **React, Redux**
 
 - 👨‍💻 All of my projects are available at [https://sunny-dalvi.netlify.app](https://sunny-dalvi.netlify.app)
