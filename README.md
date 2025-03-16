@@ -1,35 +1,36 @@
 ![ScreenShot](https://images.pexels.com/photos/2312369/pexels-photo-2312369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 <h1 align="center">Hi 👋, I'm Sunny Dalvi</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **React, Redux**  
+- 👨‍💻 All of my projects are available at [**sunny-dalvi.netlify.app**](https://sunny-dalvi.netlify.app)  
+- 💬 Ask me about **React, JavaScript**  
+- 📫 How to reach me: **Sunnydalvi94@gmail.com**  
+- ⚡ Fun fact: **I think I am curious**  
 
-- 👨‍💻 All of my projects are available at [https://sunny-dalvi.netlify.app](https://sunny-dalvi.netlify.app)
+---
 
-- 💬 Ask me about **React,JavaScript**
-
-- 📫 How to reach me **Sunnydalvi94@gmail.com**
-
-- ⚡ Fun fact **I think i am Curious**
-
-<h3 align="left">Connect with me:</h3>
+### **🌐 Connect with me:**
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/sunnydalvi94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sunnydalvi94" height="30" width="40" />Twitter</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sunny-dalvi2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sunny-dalvi2022/" height="30" width="40" /> LinkedIn </a>
+  <a href="https://twitter.com/sunnydalvi94" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    Twitter
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/sunny-dalvi2022/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    LinkedIn
+  </a>
 </p>
 
+---
 
-
- <div align="center">
+### **📌 ALL REACT MINI PROJECTS**
+<div align="center">
   <a href="https://github.com/sunnydalvi94/react-learning" target="_blank">
-    <div >
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="React Logo" width="60" height="60"/>
-      <h1 style="color: #61DAFB;">ALL REACT MINI PROJECTS</h1>
-    </div>
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Logo" width="80" height="80"/>
+    <br>
+    <strong style="color:#61DAFB; font-size: 24px;">ALL REACT MINI PROJECTS</strong>
   </a>
 </div>
-
-
-
-
-
