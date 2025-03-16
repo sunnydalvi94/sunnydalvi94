@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnydalvi94" alt="sunnydalvi94" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Spring, DSA**
+- 🌱 I’m currently learning **React, Redux**
 
 - 👨‍💻 All of my projects are available at [https://sunny-dalvi.netlify.app](https://sunny-dalvi.netlify.app)
 
